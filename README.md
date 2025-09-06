@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Michelle Rahman
 
-🎓 Rising junior at Barnard College of Columbia University  
+🎓 Junior at Barnard College of Columbia University  
 💻 Computer Science major · Science & Public Policy minor  
 🌐 AI/ML Fellow @ Break Through Tech · Data Science Enthusiast  
 
